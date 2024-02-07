@@ -542,6 +542,6 @@ def update_stylesheet(selected_schemas):
     return stylesheet
 
 if __name__ == '__main__':
-    app.run(debug=False,port=8052)
-    # app.run_server(debug=False,host='0.0.0.0',port=8050)
+    #app.run(debug=False,port=8052)
+    app.run_server(debug=False,host='0.0.0.0',port=8052)
     
