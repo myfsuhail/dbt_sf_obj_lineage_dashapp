@@ -2,3 +2,4 @@ pandas
 dash-cytoscape==0.3.0
 dash
 pandasql
+openpyxl
